@@ -49,7 +49,7 @@ CSV/Parquet
     │
     ▼
 [Streamlit UI] Tabs: Overview · Churn · Retention · Cohort · Profile · Trends · Chatbot
-
+```
 ---
 
 
@@ -233,5 +233,6 @@ PRs welcome! Please:
 1. State the problem clearly  
 2. Include repro steps or sample data  
 3. Add tests & short demo (GIF/screenshot)  
+
 
 
